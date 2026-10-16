@@ -1,1 +1,1 @@
-# Ejercicios de nivel medioJS
+# Ejercicios de nivel bajoJS
