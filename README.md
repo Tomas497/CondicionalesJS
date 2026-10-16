@@ -1,1 +1,1 @@
-# CondicionalesJS
+# Ejercicios de nivel medioJS
